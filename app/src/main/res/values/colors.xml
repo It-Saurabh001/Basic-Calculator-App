@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#808080</color>
+    <color name="gunmetal_grey">#818589</color>
+    <color name="pweter">#F8F9F9</color>
+    <color name="darkgrey">#A9A9A9</color>
+
+
+
+    <color name="orange">#D35400</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="textviewcolor">#F2F4F4</color>
+    <color name="operand_color">#AEB6BF</color>
+    <color name="button_color">#F5EEF8</color>
+    <color name="back_color">#D5DBDB</color>
+
+</resources>
